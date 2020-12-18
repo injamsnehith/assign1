@@ -1,0 +1,39 @@
+.page1{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-Color: lightgreen
+    }
+.p1{
+        font-family:"Times New Roman";
+        color:skyblue
+
+}
+.p2{
+        font-family:"Cursive";
+        color:pink
+    }
+
+.page2{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-Color:blue;
+
+}
+.menubar{
+    font-family:"Times New Roman";
+    color:yellow;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    }
+.img{
+   width:200px;
+   height:150px;
+   margin:auto;
+   font-family:"Arial";
+
+}
